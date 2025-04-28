@@ -1,4 +1,4 @@
-# student_grade_management
+# student_grade_management using tuples
 
 Part 1: Creating Tuples
 # Student data: (name, subject, grade)
